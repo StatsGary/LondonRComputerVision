@@ -1,6 +1,6 @@
 # London R Talk - 24/11/2020 - Computer Vision
 
-![NHSRCommunity](Images/Mango.png)
+![NHSRCommunity](Images/MangoColour.png)
 
 The computer vision code is hosted on my cloud account. Click the <a href="https://1drv.ms/u/s!Aq5aEUcRx5IqgoASR6poEt9lj5EsrA?e=woq0g5">link</a> to access.
 
